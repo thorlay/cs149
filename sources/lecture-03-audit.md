@@ -1,7 +1,9 @@
 # Lecture 03 来源核验记录（公开版）
 
-**教材：** [第三章：延迟、带宽与 ISPC](../textbook/03-multicore-ispc.md)  
-**课程：** Stanford CS149 Fall 2023  
+**教材：** [第三章：延迟、带宽与 ISPC](../textbook/03-multicore-ispc.md)
+
+**课程：** Stanford CS149 Fall 2023
+
 **来源：** [官方课程页面](https://gfxcourses.stanford.edu/cs149/fall23/lecture/multicore2-ispc/) · [56 页 Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/multicore2-ispc/03_multicore2-ispc.pdf) · [录像](https://www.youtube.com/watch?v=F4bVSyz_jxo) · [ISPC 手册](https://ispc.github.io/ispc.html)
 
 ## 材料与边界
