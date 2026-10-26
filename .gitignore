@@ -1,0 +1,6 @@
+# Keep source material local. Do not publish entire third-party subtitle or slides files.
+sources/raw/
+sources/packets/
+**/__pycache__/
+*.pyc
+.DS_Store
