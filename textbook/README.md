@@ -4,13 +4,14 @@
 
 **教材的正式验收标准是 [Self-contained 中文教材规范](./SELF-CONTAINED-STANDARD.md)：一章读到底，应当能独立理解概念、完成计算、复现最小例子、验证答案。** Slides、Transcript、视频是出处核验与延伸资源，不是必读前置条件。
 
-**编写状态（2026-10-25）**：L01、L02、L03 已使用用户提供的无时间戳自动 Transcript，结合官方 Slides 编写成可独立阅读的详细中文教材；自动文字稿均未与原始音频逐句校对。L07、L10 为自包含初稿、仍缺完整 Transcript 核验；其余讲次尚未编写正文。
+**编写状态（2026-10-26）**：L01、L02、L03、L05 已使用用户提供的无时间戳自动 Transcript，结合官方 Slides 编写成可独立阅读的详细中文教材；自动文字稿均未与原始音频逐句校对。L07、L10 为自包含初稿、仍缺完整 Transcript 核验；其余讲次尚未编写正文。
 
 ## 已写的章节
 
 - [第 1 章：为什么需要并行计算？（Transcript + Slides 详细版）](./01-why-parallelism.md)
 - [第 2 章：现代多核处理器——Cache、Multicore、SIMD 与硬件多线程](./02-modern-multicore-processor.md)
 - [第 3 章：多核架构进阶——延迟、带宽与 ISPC](./03-multicore-ispc.md)
+- [第 5 章：工作分配与调度——负载平衡、任务粒度与工作窃取](./05-work-distribution-scheduling.md)
 - [第 7 章：从 CUDA 线程抽象到真实 GPU 执行](./07-gpu-cuda.md)
 - [第 10 章：DNN 的 GPU 优化、Fusion 与 Attention](./10-dnn-gpu.md)
 
@@ -22,7 +23,7 @@
 | 02 | A Modern Multi-Core Processor | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/multicore/02_basicarch_xX3ssOi.pdf) · [视频](https://www.youtube.com/watch?v=CKmNpAO5rS4) | [自包含详细版](./02-modern-multicore-processor.md) |
 | 03 | Multi-core Arch Part II + ISPC | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/multicore2-ispc/03_multicore2-ispc.pdf) · [视频](https://www.youtube.com/watch?v=F4bVSyz_jxo) | [自包含详细版](./03-multicore-ispc.md) |
 | 04 | Parallel Programming Basics | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/progbasics/04_progbasics.pdf) · [视频](https://www.youtube.com/watch?v=0-ztm8SKq70) | 待编写 |
-| 05 | Performance Optimization I: Work Distribution and Scheduling | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/perfopt1/05_progperf1.pdf) · [视频](https://www.youtube.com/watch?v=mmO2Ri_dJkk) | 待编写 |
+| 05 | Performance Optimization I: Work Distribution and Scheduling | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/perfopt1/05_progperf1.pdf) · [视频](https://www.youtube.com/watch?v=mmO2Ri_dJkk) | [自包含详细版](./05-work-distribution-scheduling.md) |
 | 06 | Performance Optimization II: Locality, Communication, and Contention | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/perfopt2/06_progperf2.pdf) · [视频](https://www.youtube.com/watch?v=Mhdny2JNhmc) | 待编写 |
 | 07 | GPU Architecture and CUDA Programming | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/gpucuda/07_gpuarch.pdf) · [视频](https://www.youtube.com/watch?v=qQTDF0CBoxE) | [自包含初稿](./07-gpu-cuda.md) |
 | 08 | Data-Parallel Thinking | [Slides](https://gfxcourses.stanford.edu/cs149/fall23content/media/dataparallel/08_dataparallel.pdf) · [视频](https://www.youtube.com/watch?v=Ba3TqxSgnTk) | 待编写 |

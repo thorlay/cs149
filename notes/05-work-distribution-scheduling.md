@@ -3,6 +3,8 @@
 **对应课程：** [CS149 Fall 2023，Oct 10](https://gfxcourses.stanford.edu/cs149/fall23/)  
 **关键词：** Work、Span、Load Balance、Static vs Dynamic、Work Stealing、Granularity
 
+**完整教材：** [第五章：工作分配与调度](../textbook/05-work-distribution-scheduling.md)，包含推导、代码、习题与参考答案。
+
 ## 1. 并行性能的两个基本量
 
 **Work (T1)**：整个任务需要执行的总工作量；通常可理解为在单个处理器上执行这份并行算法的成本。
