@@ -12,7 +12,7 @@ from pathlib import Path
 from urllib.parse import unquote
 
 CS149_ROOT = Path(__file__).resolve().parents[1]
-REPO_ROOT = CS149_ROOT.parent
+REPO_ROOT = CS149_ROOT
 CHAPTER_DIR = CS149_ROOT / "textbook"
 LINK = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
 CODE_FENCE = re.compile(r"^\s*((?:\x60{3,})|(?:~{3,}))")
@@ -22,6 +22,7 @@ def lint_chapter(path: Path) -> list[str]:
     body = path.read_text(encoding="utf-8")
     rows = body.splitlines()
     problems: list[str] = []
+    prose_rows: list[str] = []
     in_code: tuple[str, int] | None = None
     in_math = False
     math_marker = "$" * 2
@@ -38,6 +39,7 @@ def lint_chapter(path: Path) -> list[str]:
             continue
         if in_code:
             continue
+        prose_rows.append(re.sub(r"(`+).*?\1", "", row))
 
         if stripped == "$":
             problems.append(f"line {num}: standalone single $ breaks display math")
@@ -64,7 +66,7 @@ def lint_chapter(path: Path) -> list[str]:
     if "来源" not in body:
         problems.append("missing source-verification section")
 
-    for match in LINK.finditer(body):
+    for match in LINK.finditer("\n".join(prose_rows)):
         raw_link = match.group(1).split()[0]
         if raw_link.startswith(("https://", "http://", "mailto:", "#", "data:")):
             continue

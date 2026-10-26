@@ -59,3 +59,7 @@ Block Size 影响线程分组和资源使用，但“更大一定更快”是错
 ## Lecture 02：CPU Cache / Multicore / SIMD
 
 [三段可运行实验与编译命令](./lecture02/README.md)。正文同样包含完整代码，实验目录仅供方便执行。
+
+## Lecture 03：延迟、带宽与 ISPC
+
+[Python 模型与 ISPC 三种分配实验](./lecture03/README.md)：包含可直接在 Apple Silicon 上运行的 NEON 版本与边界校验。

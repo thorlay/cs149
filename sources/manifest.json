@@ -48,7 +48,12 @@
       "video_playlist_position": 3,
       "transcript_local": null,
       "transcript_verified": false,
-      "textbook_status": "not_started"
+      "textbook_status": "self_contained_draft",
+      "transcript_text_reviewed": true,
+      "transcript_type": "User-provided automatic ASR, no timestamps; read through foreach implementation discussion",
+      "slides_pages": 56,
+      "slides_text_reviewed": true,
+      "slides_images_fully_reviewed": false
     },
     {
       "lecture": 4,

@@ -6,8 +6,8 @@
 
 - **Slides：** 18 份 PDF 均通过 Stanford Fall 2023 官方页面逐讲核对过下载地址。
 - **视频：** 18 个主题讲次的 YouTube ID 已与 2023 课程资源索引对应；期中复习另列。
-- **Transcript：** Lecture 1 与 Lecture 2 已阅读用户提供的 YouTubeToTranscript 无时间戳自动转写，并与各自课程主题对照，但仍未逐句与原始音频核对；**没有在公开仓库上传第三方全文**。其他讲次尚未取得可靠的完整 Transcript。详见 [L01 来源核验](./lecture-01-audit.md) 与 [L02 来源核验](./lecture-02-audit.md)。
-- **教材章节：** L01、L02 已整合 Transcript 与 Slides 写成完整原创教材，仍未逐句校对原音；L07、L10 为自包含初稿。状态字段区分文字稿阅读、课件核查与音频核对。
+- **Transcript：** Lecture 1、Lecture 2 与 Lecture 3 已阅读用户提供的无时间戳英文自动转写，并与各自课程主题对照，但仍未逐句与原始音频核对；**没有在公开仓库上传第三方全文**。其他讲次尚未取得可靠的完整 Transcript。详见 [L01 来源核验](./lecture-01-audit.md)、[L02 来源核验](./lecture-02-audit.md) 与 [L03 来源核验](./lecture-03-audit.md)。
+- **教材章节：** L01、L02、L03 已整合 Transcript 与 Slides 写成完整原创教材，仍未逐句校对原音；L07、L10 为自包含初稿。状态字段区分文字稿阅读、课件核查与音频核对。
 
 ## 本地字幕建议格式
 
