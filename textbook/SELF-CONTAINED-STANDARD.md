@@ -78,6 +78,7 @@ python3 tools/check_textbook.py
 - L03：延迟、带宽、流水线与 ISPC 的自包含教材；用户文字稿已阅读、未逐句核对音频；Python 模型及 macOS ARM64 上的 ISPC 实验已验证。
 - L04：补齐四步骤、Amdahl 与完整红黑求解案例；Python/ISPC/C++ 已验证，100 组求解检查及 ThreadSanitizer 运行通过；文字稿未逐句核验音频。
 - L05：工作分配与调度的自包含教材；文字稿已阅读、未逐句核验音频；Python 模型与 C++17 实验已验证，未运行 Cilk 专用工具链。
+- L06：消息传递、幽灵行、局部性与 Roofline 的自包含教材；Python 模型 54 组 Halo 校验与 C++17 的 99 组检查通过，地址/未定义行为检测通过；未运行真实 MPI，文字稿未逐句核验音频。
 - L07：提供完整 CUDA 最小例子与不依赖 GPU 的手工推演；运行/编译仍需要 NVIDIA CUDA 环境，GPU 上的实际运行尚待独立验证。
 - L10：提供无需 GPU 的 Attention 算例和自检代码；DNN 算子性能优化需要进一步到目标硬件进行基准实验。
 

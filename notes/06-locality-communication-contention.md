@@ -3,6 +3,8 @@
 **对应课程：** [CS149 Fall 2023，Oct 12](https://gfxcourses.stanford.edu/cs149/fall23/)  
 **关键词：** Data Locality、Bandwidth、Arithmetic Intensity、Communication Overlap、Contention
 
+**完整教材：** [第六章：局部性、通信与竞争](../textbook/06-locality-communication-contention.md)，含推导、完整代码和练习；本页保持速查格式。
+
 ## 1. 为什么仅看 FLOPs 不够
 
 一个算子需要多少计算，并不唯一决定它能跑多快；数据从哪里来、移动多少次，往往更重要。
