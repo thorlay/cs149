@@ -11,7 +11,7 @@
 
 ## 中文教材（Transcript + Slides 路线）
 
-新增 [中文教材目录](./textbook/README.md)：以 2023 官方 Slides 和可核对的录播资料为参考，原创编写连续正文。其中 L01–L07 已结合用户提供 Transcript 和官方 Slides 扩写为详细版，L10 为自包含初稿；[完整 Slides / 视频来源索引](./sources/README.md) 覆盖 18 个主题讲次及期中复习课。L01–L07 文字稿已阅读但尚未与录音逐句校对；其余完整 Transcript 尚在核验，未获取的章节不标记完成。
+新增 [中文教材目录](./textbook/README.md)：以 2023 官方 Slides 和可核对的录播资料为参考，原创编写连续正文。其中 L01–L08 已结合用户提供 Transcript 和官方 Slides 扩写为详细版，L10 为自包含初稿；[完整 Slides / 视频来源索引](./sources/README.md) 覆盖 18 个主题讲次及期中复习课。L01–L08 文字稿已阅读但尚未与录音逐句校对；其余完整 Transcript 尚在核验，未获取的章节不标记完成。
 
 ## 自包含中文教材
 
@@ -23,6 +23,7 @@
 - [第 5 章：工作分配与调度——负载平衡、任务粒度与工作窃取](./textbook/05-work-distribution-scheduling.md)
 - [第 6 章：局部性、通信与竞争——幽灵行、分块、融合与 Roofline](./textbook/06-locality-communication-contention.md)
 - [第 7 章：GPU 架构与 CUDA——线程层级、协作与资源约束](./textbook/07-gpu-cuda.md)
+- [第 8 章：数据并行思维——Scan、分段与不规则数据结构](./textbook/08-data-parallel-thinking.md)
 
 ## 从这里开始
 
@@ -59,7 +60,7 @@
 | 5 | Work Distribution and Scheduling | [自包含教材](./textbook/05-work-distribution-scheduling.md) · [速查笔记](./notes/05-work-distribution-scheduling.md) |
 | 6 | Locality, Communication, and Contention | [自包含教材](./textbook/06-locality-communication-contention.md) · [速查笔记](./notes/06-locality-communication-contention.md) |
 | 7 | GPU Architecture and CUDA | [自包含教材](./textbook/07-gpu-cuda.md) · [速查笔记](./notes/07-gpu-architecture-cuda.md) |
-| 8 | Data-Parallel Thinking | [详细笔记](./notes/08-data-parallel-thinking.md) |
+| 8 | Data-Parallel Thinking | [自包含教材](./textbook/08-data-parallel-thinking.md) · [速查笔记](./notes/08-data-parallel-thinking.md) |
 | 9 | Spark | 官方材料（按需） |
 | 10 | Efficiently Evaluating DNNs on GPUs | [详细笔记](./notes/10-dnn-gpu-optimization.md) |
 | 11–13 | Cache Coherence、Memory Consistency、Lock-Free | 官方材料（按需） |

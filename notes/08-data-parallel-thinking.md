@@ -3,6 +3,8 @@
 **对应课程：** [CS149 Fall 2023，Oct 19](https://gfxcourses.stanford.edu/cs149/fall23/)  
 **关键词：** Map、Reduce、Scan、Prefix Sum、Scatter、Gather、Compaction
 
+**完整教材：** [第八章：数据并行思维](../textbook/08-data-parallel-thinking.md)，包含完整推导、代码、算例与练习；本页保持速查格式。
+
 ## 1. 为什么数据并行原语重要
 
 许多 GPU 算子不是从算法零件开始，而是由少量可组合的并行模式构成：
