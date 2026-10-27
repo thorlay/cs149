@@ -64,6 +64,10 @@ Block Size 影响线程分组和资源使用，但“更大一定更快”是错
 
 [Python 模型与 ISPC 三种分配实验](./lecture03/README.md)：包含可直接在 Apple Silicon 上运行的 NEON 版本与边界校验。
 
+## Lecture 04：并行编程基础
+
+[Python 语义模型、ISPC 归约与完整 C++17 红黑求解器](./lecture04/README.md)：覆盖数值差异、阶段同步与残差检查。
+
 ## Lecture 05：工作分配与调度
 
 [Python 调度模型与 C++17 多线程实验](./lecture05/README.md)：对照连续分块、循环分配和动态块，包含依赖图与区间偷取推演。

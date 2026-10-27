@@ -9,7 +9,7 @@
 
 ## 中文教材（Transcript + Slides 路线）
 
-新增 [中文教材目录](./textbook/README.md)：以 2023 官方 Slides 和可核对的录播资料为参考，原创编写连续正文。其中 L01、L02、L03、L05 已结合用户提供 Transcript 和官方 Slides 扩写为详细版，L07、L10 为自包含初稿；[完整 Slides / 视频来源索引](./sources/README.md) 覆盖 18 个主题讲次及期中复习课。L01、L02、L03、L05 文字稿已阅读但尚未与录音逐句校对；其余完整 Transcript 尚在核验，未获取的章节不标记完成。
+新增 [中文教材目录](./textbook/README.md)：以 2023 官方 Slides 和可核对的录播资料为参考，原创编写连续正文。其中 L01–L05 已结合用户提供 Transcript 和官方 Slides 扩写为详细版，L07、L10 为自包含初稿；[完整 Slides / 视频来源索引](./sources/README.md) 覆盖 18 个主题讲次及期中复习课。L01–L05 文字稿已阅读但尚未与录音逐句校对；其余完整 Transcript 尚在核验，未获取的章节不标记完成。
 
 ## 自包含中文教材
 
@@ -17,6 +17,7 @@
 - [第 2 章：现代多核处理器——Cache、Multicore、SIMD、硬件多线程](./textbook/02-modern-multicore-processor.md)
 - [第 3 章：多核架构进阶——延迟、带宽与 ISPC](./textbook/03-multicore-ispc.md)
 
+- [第 4 章：并行编程基础——分解、同步与网格求解](./textbook/04-parallel-programming-basics.md)
 - [第 5 章：工作分配与调度——负载平衡、任务粒度与工作窃取](./textbook/05-work-distribution-scheduling.md)
 
 ## 从这里开始
@@ -50,7 +51,7 @@
 | 1 | Why Parallelism? Why Efficiency? | 官方材料 |
 | 2 | A Modern Multi-Core Processor | [详细笔记](./notes/02-multicore-simd.md) |
 | 3 | Multi-core Part II + ISPC | [自包含教材](./textbook/03-multicore-ispc.md) |
-| 4 | Parallel Programming Basics | 官方材料 |
+| 4 | Parallel Programming Basics | [自包含教材](./textbook/04-parallel-programming-basics.md) |
 | 5 | Work Distribution and Scheduling | [自包含教材](./textbook/05-work-distribution-scheduling.md) · [速查笔记](./notes/05-work-distribution-scheduling.md) |
 | 6 | Locality, Communication, and Contention | [详细笔记](./notes/06-locality-communication-contention.md) |
 | 7 | GPU Architecture and CUDA | [详细笔记](./notes/07-gpu-architecture-cuda.md) |
