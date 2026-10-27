@@ -13,6 +13,7 @@
 * [第 6 章：局部性、通信与竞争](textbook/06-locality-communication-contention.md "第 6 章｜局部性、通信与竞争")
 * [第 7 章：GPU 架构与 CUDA](textbook/07-gpu-cuda.md "第 7 章｜GPU 架构与 CUDA")
 * [第 8 章：数据并行思维](textbook/08-data-parallel-thinking.md "第 8 章｜数据并行思维")
+* [第 9 章：Spark 与分布式计算](textbook/09-distributed-computing-spark.md "第 9 章｜Spark 与分布式计算")
 * [第 10 章：GPU 上的深度学习优化](textbook/10-dnn-gpu.md "第 10 章｜深度学习的 GPU 优化")
 
 ## 专题笔记
@@ -33,6 +34,7 @@
 * [局部性、通信与融合实验](labs/lecture06/README.md "局部性、通信与融合实验")
 * [CUDA 语义模型与基础练习](labs/lecture07/README.md "CUDA 语义模型与基础练习")
 * [Scan 与数据并行原语实验](labs/lecture08/README.md "Scan 与数据并行原语实验")
+* [Spark、Shuffle 与分区恢复实验](labs/lecture09/README.md "Spark、Shuffle 与分区恢复实验")
 
 * [CUDA SAXPY：从正确性到性能解释](labs/README.md "CUDA SAXPY 实验")
 * [实验结果记录模板](templates/benchmark-log.md "实验结果记录模板")
@@ -51,6 +53,8 @@
 * [第 6 讲来源核验记录](sources/lecture-06-audit.md "第 6 讲来源核验记录")
 * [第 7 讲来源核验记录](sources/lecture-07-audit.md "第 7 讲来源核验记录")
 * [第 8 讲来源核验记录](sources/lecture-08-audit.md "第 8 讲来源核验记录")
+
+* [第 9 讲来源核验记录](sources/lecture-09-audit.md "第 9 讲来源核验记录")
 
 ## 教材编写
 

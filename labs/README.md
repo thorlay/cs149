@@ -83,3 +83,7 @@ Block Size 影响线程分组和资源使用，但“更大一定更快”是错
 ## Lecture 08：Scan 与数据并行原语
 
 [两种 Scan、分段应用与真实线程分块实验](./lecture08/README.md)：不需要 GPU，包含 Python 算法流水线与 C++17 多线程验证及明确的测试边界。
+
+## Lecture 09：Spark 与分区恢复
+
+[实验说明](./lecture09/README.md)：标准库 Shuffle/恢复成本模型与真实 PySpark 4.0.1 本地 RDD 实验，包含一次预期失败后的任务重试。

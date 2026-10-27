@@ -6,8 +6,11 @@
 
 - **Slides：** 18 份 PDF 均通过 Stanford Fall 2023 官方页面逐讲核对过下载地址。
 - **视频：** 18 个主题讲次的 YouTube ID 已与 2023 课程资源索引对应；期中复习另列。
-- **Transcript：** Lecture 1–8 已阅读用户提供的无时间戳英文自动转写，并与各自课程主题对照，但仍未逐句与原始音频核对；**没有在公开仓库上传第三方全文**。其他讲次尚未取得可靠的完整 Transcript。详见 [L01 来源核验](./lecture-01-audit.md)、[L02 来源核验](./lecture-02-audit.md)、[L03 来源核验](./lecture-03-audit.md)、[L04 来源核验](./lecture-04-audit.md)、[L05 来源核验](./lecture-05-audit.md)、[L06 来源核验](./lecture-06-audit.md)、[L07 来源核验](./lecture-07-audit.md) 与 [L08 来源核验](./lecture-08-audit.md)。
-- **教材章节：** L01–L08 已整合 Transcript 与 Slides 写成完整原创教材，仍未逐句校对原音；L10 为自包含初稿。状态字段区分文字稿阅读、课件核查与音频核对。
+- **Transcript：** Lecture 1–9 已阅读用户提供的无时间戳英文自动转写，并与各自课程主题对照，但仍未逐句与原始音频核对；**没有在公开仓库上传第三方全文**。其他讲次尚未取得可靠的完整 Transcript。详见 [L01 来源核验](./lecture-01-audit.md)、[L02 来源核验](./lecture-02-audit.md)、[L03 来源核验](./lecture-03-audit.md)、[L04 来源核验](./lecture-04-audit.md)、[L05 来源核验](./lecture-05-audit.md)、[L06 来源核验](./lecture-06-audit.md)、[L07 来源核验](./lecture-07-audit.md)、[L08 来源核验](./lecture-08-audit.md) 与 [L09 来源核验](./lecture-09-audit.md)。
+- **教材章节：** L01–L09 已整合 Transcript 与 Slides 写成完整原创教材，仍未逐句校对原音；L10 为自包含初稿。状态字段区分文字稿阅读、课件核查与音频核对。
+
+
+L09 的用户文字稿止于窄/宽依赖的初步讨论；其后内容按官方课件补充，已在正文明确区分。
 
 ## 本地字幕建议格式
 
