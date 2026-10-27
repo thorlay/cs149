@@ -1,5 +1,7 @@
 # Stanford CS149 Fall 2023｜并行计算中文学习笔记
 
+**在线阅读：[CS149 并行计算 · GitBook](https://jinshuolei.gitbook.io/cs149-bing-xing-ji-suan/)**
+
 > **非官方、原创学习手册。** 面向有 C++ / 后端 / 分布式系统基础、希望深入 GPU、HPC 与 AI Infrastructure 的工程师。以 Stanford CS149 Fall 2023 为课程主线，结合工程实例解释概念；不是视频逐字稿，也不包含课程讲义的全文转载。
 
 - [课程主页：Stanford CS149 Fall 2023](https://gfxcourses.stanford.edu/cs149/fall23/)
