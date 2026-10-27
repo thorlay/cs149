@@ -3,7 +3,7 @@
   "official": "https://gfxcourses.stanford.edu/cs149/fall23",
   "playlist": "https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp",
   "source_review_date": "2026-10-26",
-  "notes": "18 个主题讲次及 Midterm Review。L01–L06 用户提供的无时间戳自动文字稿已阅读并与官方课件对照；未完成逐句音频校验，其他讲次完整 Transcript 仍待核验。课件图像为抽查，具体页码与限制见各讲来源记录。公开仓库不上传第三方全文。",
+  "notes": "18 个主题讲次及 Midterm Review。L01–L07 用户提供的无时间戳自动文字稿已阅读并与官方课件对照；未完成逐句音频校验，其他讲次完整 Transcript 仍待核验。课件图像为抽查，具体页码与限制见各讲来源记录。公开仓库不上传第三方全文。",
   "lectures": [
     {
       "lecture": 1,
@@ -116,7 +116,14 @@
       "video_playlist_position": 7,
       "transcript_local": null,
       "transcript_verified": false,
-      "textbook_status": "draft_from_slides_with_video_reference"
+      "textbook_status": "self_contained_draft",
+      "transcript_text_reviewed": true,
+      "transcript_type": "User-provided automatic English ASR, no timestamps; graphics history through cross-block flag-wait example",
+      "slides_pages": 73,
+      "slides_text_reviewed": true,
+      "slides_images_fully_reviewed": false,
+      "cuda_compiled": false,
+      "cuda_gpu_tested": false
     },
     {
       "lecture": 8,

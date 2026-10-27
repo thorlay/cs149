@@ -1,5 +1,7 @@
 # Lecture 7 — GPU Architecture and CUDA Programming
 
+**完整教材：** [第七章：GPU 架构与 CUDA 编程](../textbook/07-gpu-cuda.md)，含推导、完整代码、CPU 模型与练习；本页保持速查格式。
+
 **对应课程：** [CS149 Fall 2023，Oct 17](https://gfxcourses.stanford.edu/cs149/fall23/)  
 **关键词：** SIMT、Warp、SM、Grid、Block、Coalescing、Occupancy
 

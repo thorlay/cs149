@@ -30,6 +30,7 @@
 * [并行编程与红黑求解实验](labs/lecture04/README.md "并行编程与红黑求解实验")
 * [工作分配与调度实验](labs/lecture05/README.md "工作分配与调度实验")
 * [局部性、通信与融合实验](labs/lecture06/README.md "局部性、通信与融合实验")
+* [CUDA 语义模型与基础练习](labs/lecture07/README.md "CUDA 语义模型与基础练习")
 
 * [CUDA SAXPY：从正确性到性能解释](labs/README.md "CUDA SAXPY 实验")
 * [实验结果记录模板](templates/benchmark-log.md "实验结果记录模板")
@@ -46,6 +47,7 @@
 * [第 4 讲来源核验记录](sources/lecture-04-audit.md "第 4 讲来源核验记录")
 * [第 5 讲来源核验记录](sources/lecture-05-audit.md "第 5 讲来源核验记录")
 * [第 6 讲来源核验记录](sources/lecture-06-audit.md "第 6 讲来源核验记录")
+* [第 7 讲来源核验记录](sources/lecture-07-audit.md "第 7 讲来源核验记录")
 
 ## 教材编写
 

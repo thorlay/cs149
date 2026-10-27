@@ -75,3 +75,7 @@ Block Size 影响线程分组和资源使用，但“更大一定更快”是错
 ## Lecture 06：局部性、通信与竞争
 
 [消息协议、Halo、缓存模型与 C++ 融合实验](./lecture06/README.md)：无需 GPU 或集群，包含模型假设、正确性检查与可选计时。
+
+## Lecture 07：CUDA 语义模型与基础练习
+
+[CPU 推演与完整 CUDA 练习](./lecture07/README.md)：Python 模型已运行；CUDA 程序含三点平均、二维加法和直方图，尚未编译或在 NVIDIA GPU 实测。
